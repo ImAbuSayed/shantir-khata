@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মেঘের আড়ালে খুঁজি আমি শান্তির খাতা
+> তোমার মায়ায় হারায় আমার মনের পাতা.. মনের পাতা..
+> নীরবে ছুঁয়ে দাও তুমি আমার এ হাত
+> অচেনা তৃষ্ণায় কাটে প্রতিটি রাত.. প্রতিটি রাত..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
