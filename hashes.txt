@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shantir Khata
+
+This log tracks the cryptographic history and versioning for the song **Shantir Khata** (shantir-khata).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T22:32:03.803559 | `v1` | `7c9391175ca7b87d09bc1b2aadd1b39d2c8e5fcef67c91c3983c7010fb32bf93` | `63ed35a043870e9332e74e7ebf44ea7907145ab6838b6506909abf9d090a8954` | `2026-05-14_shantir-khata-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
